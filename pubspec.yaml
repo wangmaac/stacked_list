@@ -1,7 +1,7 @@
 name: stacked_list
-description: A new flutter plugin project.
+description: It's a list that expands and overlaps when you click on a title. I named it a self-proclaimed "stacked list".
 version: 0.0.1
-homepage:
+homepage: https://wangaamc.tistory.com
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
